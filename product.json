@@ -1,6 +1,6 @@
 {
-	"nameShort": "OpenVSCode Server",
-	"nameLong": "OpenVSCode Server",
+	"nameShort": "PCode",
+	"nameLong": "PCode",
 	"applicationName": "openvscode-server",
 	"dataFolderName": ".openvscode-server",
 	"win32MutexName": "openvscodeserver",
